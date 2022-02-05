@@ -3,4 +3,8 @@ Built-in Javascript lifesaver, this is still in beta stage, You can try it and h
 I dont know why am i make this kindof thing but i just want some fun on it! who knows, it is useful
 for more info check my npmjs pkg
 
-latest: 1.3.0-Release
+Sorry guys we are now only gives release version not beta version
+
+latest: 1.3.1
+
+# bruh
